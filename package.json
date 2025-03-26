@@ -1,0 +1,14 @@
+{
+  "name": "adharsh",
+  "version": "1.0.0",
+  "dependencies": {
+    "mongodb": "^4.10.0",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.0"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  }
+}
