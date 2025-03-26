@@ -2,6 +2,10 @@
   "name": "adharsh",
   "version": "1.0.0",
   "dependencies": {
+  "next": "latest",
+  "react": "latest",
+  "react-dom": "latest"
+  }
     "mongodb": "^4.10.0",
     "bcryptjs": "^2.4.3",
     "jsonwebtoken": "^9.0.0"
